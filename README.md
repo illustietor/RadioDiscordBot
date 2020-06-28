@@ -22,7 +22,7 @@ Para hostear el bot (tenerlo funcionando en Internet todo el rato) usaremos [Gli
   - package.json
   - server.js
   
-  Así que ahora te faltarían por crear:
+    Así que ahora te faltarían por crear:
   - config.json
   - watch.json
 Puedes crearlos desde "New file" escribiendoles el normbre.
